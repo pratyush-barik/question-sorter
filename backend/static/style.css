@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #1e293b, #0f172a);
+  color: white;
+}
+
+.container {
+  max-width: 500px;
+  margin: 80px auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #94a3b8;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: #1e293b;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+input[type="file"] {
+  width: 100%;
+  padding: 8px;
+  background: #0f172a;
+  border: none;
+  color: white;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 12px;
+  background: #3b82f6;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #2563eb;
+}
+
+.status {
+  margin-top: 20px;
+  color: #22c55e;
+}
