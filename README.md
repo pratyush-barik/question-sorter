@@ -27,13 +27,7 @@ The primary component of this system is the NLP pipeline implemented in `pipelin
 ### 3. Token-Based Matching
 - Each question is tokenized into a set of words.
 - Each unit’s content is similarly tokenized.
-- A similarity score is computed using word overlap:
-  
-  score = |Q ∩ U|
-
-  where:
-  - Q = set of words in the question
-  - U = set of words in the unit description
+- A similarity score is computed using word overlap.
 
 ### 4. Unit Assignment
 - Each question is assigned to the unit with the highest similarity score.
@@ -72,9 +66,9 @@ This ensures:
 ## Project Structure
 
 backend/
-├── server.py              # API and request handling
-├── pipeline.py            # NLP processing logic
-├── requirements.txt       # Dependencies
+├── server.py            
+├── pipeline.py           
+├── requirements.txt
 ├── templates/
 │   └── index.html
 └── static/
