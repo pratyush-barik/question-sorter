@@ -66,15 +66,14 @@ This ensures:
 ## Project Structure
 
 backend/
-├── server.py            
-├── pipeline.py           
-├── requirements.txt
+├── server.py # API and request handling
+├── pipeline.py # NLP processing logic
+├── requirements.txt # Dependencies
 ├── templates/
-│   └── index.html
+│ └── index.html
 └── static/
-    ├── script.js
-    └── style.css
-
+├── script.js
+└── style.css
 ---
 
 ## Execution Flow
