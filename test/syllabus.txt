@@ -1,0 +1,29 @@
+PART - A
+
+Unit-1: Introduction to Natural Language Understanding
+1.1 NLP – introduction and applications, NLP phases
+1.2 Difficulty of NLP including ambiguity; Spelling error and Noisy Channel Model
+1.3 Concepts of Parts-of-speech and Formal Grammar of English
+
+Unit-2: Language Modeling & Word Processing
+2.2 N-gram and Neural Language Models; Language Modelling with N-gram; Simple N-gram models; Smoothing (basic techniques)
+2.3 Evaluating language models; Neural Network basics; Training
+2.4 Neural Language Model; Case study: application of neural language model in NLP system development
+
+Unit-3: Parts-of-Speech Tagging
+3.6 Parts-of-speech Tagging: basic concepts; Tagset; Early approaches
+3.7 Rule based and TBL; POS tagging using HMM
+3.8 Introduction to POS Tagging using Neural Model
+
+PART - B
+
+Unit-4: Grammars and Parsing
+4.1 Basic concepts: CFG Grammar; top down and bottom up parsing; reebank; Syntactic parsing: CKY parsing
+4.2 Syntactic parsing: CKY parsing
+4.3 Statistical Parsing basics: Probabilistic Context Free Grammar (PCFG)
+4.4 Probabilistic CKY Parsing of PCFGs
+
+Unit-5: Semantics
+5.1 Vector Semantics; Words and Vector; Measuring Similarity
+5.2 Semantics with dense vectors; SVD and Latent Semantic Analysis; Embeddings from prediction: Skip-gram and CBOW
+5.3 Concept of Word Sense; Introduction to WordNet

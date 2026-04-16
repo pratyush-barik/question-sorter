@@ -1,0 +1,60 @@
+Give an example of lexical ambiguity in natural language.
+Name two basic smoothing techniques used in n-gram language models.
+What is backpropagation in neural networks?
+What is Transformation-Based Learning (TBL) in POS tagging?
+State the role of the Observation states in an HMM for POS tagging.
+
+What are Parts-of-speech (POS) in the context of Natural Language Understanding?
+Explain the rule-based approach to Parts-of-speech tagging.
+What is an N-gram model in language processing?
+Explain the concept of smoothing in N-gram models.
+How does a neural model approach POS tagging differently from traditional methods?
+Define the concept of word sense and its importance in natural language understanding.
+Describe the different phases involved in Natural Language Processing (NLP) and their significance.
+Discuss the concept of Vector Semantics in NLP.
+What are the basic concepts of Parts-of-speech tagging?
+How does WordNet contribute to capturing word senses and semantic relationships?
+
+Describe the different phases of Natural Language Processing, from raw text input to final output including tokenization, morphological analysis, syntactic parsing, semantic analysis, and discourse integration.
+
+Discuss various applications of NLP. How does ambiguity impact Natural Language Understanding (NLU) and Natural Language Generation (NLG) tasks? Provide examples of tasks like sentiment analysis, machine translation, or question answering.
+
+What is a treebank, and how is it used in syntactic parsing, particularly in CKY parsing?
+
+Describe the fundamentals of Statistical Parsing, focusing on Probabilistic Context-Free Grammar (PCFG).
+
+How are words represented as vectors, and what methods are used to measure similarity?
+
+Describe the fundamentals of Statistical Parsing, focusing on Maximum Entropy Models.
+
+Explain how an N-gram language model works. What is the difference between unigram, bigram, and trigram models? Provide an example of each.
+
+Explain step-by-step process of POS tagging along with text preprocessing.
+
+Outline the concept of a neural language model and its advantages over traditional N-gram models. Provide a brief case study of its application in an NLP system.
+
+Classify the pipeline of POS tagging using Hidden Markov Model.
+
+Describe how POS tagging can be done using Hidden Markov Models (HMM).
+
+A team is developing an NLP system for sentiment analysis of customer reviews. Propose a strategy to efficiently tag POS in review texts including approach, data preparation, and feature selection.
+
+Define a tagset in POS tagging.
+
+A chatbot application is being developed for customer support. Propose a rule-based POS tagging approach to improve response accuracy.
+
+How probabilistic parsing is better than traditional parsing techniques?
+
+Explain the CKY parsing algorithm for syntactic parsing.
+
+Describe the process of Probabilistic CKY Parsing in the context of PCFGs.
+
+How does PCFG differ from traditional CFG in syntactic parsing?
+
+Discuss the concept of vector semantics in natural language processing.
+
+Explain how words are represented as vectors and methods for measuring similarity between vectors.
+
+Describe semantics using dense vectors. Explain Singular Value Decomposition (SVD) and its application in Latent Semantic Analysis (LSA).
+
+Compare Skip-gram and Continuous Bag-of-Words (CBOW) models for generating word embeddings.
