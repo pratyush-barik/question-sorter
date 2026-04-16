@@ -104,6 +104,12 @@ The application is deployed as a web service using Render.
 
 ## Live Application
 
+Test files - syllabus.txt and question.txt have been attached in test directory
+
+---
+
+## Test Files
+
 https://question-sorter.onrender.com/
 
 ---
@@ -119,13 +125,9 @@ https://question-sorter.onrender.com/
 ## Future Enhancements
 
 - TF-IDF based similarity scoring
-- Word embeddings (Word2Vec / BERT)
 - Semantic similarity using transformer models
 - Question difficulty and marks classification
-- Multi-format input support (PDF, DOCX)
+- Multi-format input support (PDF, WORD FILE)
 
 ---
 
-## Author
-
-Pratyush Barik
