@@ -61,20 +61,19 @@ This ensures:
 - HTML/CSS/JavaScript (interface)
 - Render (deployment platform)
 
----
+##Project Structure
 
-## Project Structure
-
+```
 backend/
-├── server.py # API and request handling
-├── pipeline.py # NLP processing logic
-├── requirements.txt # Dependencies
+├── server.py              # API and request handling
+├── pipeline.py            # NLP processing logic
+├── requirements.txt       # Dependencies
 ├── templates/
-│ └── index.html
+│   └── index.html
 └── static/
-├── script.js
-└── style.css
----
+    ├── script.js
+    └── style.css
+```
 
 ## Execution Flow
 
