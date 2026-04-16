@@ -104,13 +104,13 @@ The application is deployed as a web service using Render.
 
 ## Live Application
 
-Test files - syllabus.txt and question.txt have been attached in test directory
+https://question-sorter.onrender.com/
 
 ---
 
 ## Test Files
 
-https://question-sorter.onrender.com/
+Test files - syllabus.txt and question.txt have been attached in test directory
 
 ---
 
