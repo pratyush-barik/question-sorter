@@ -35,7 +35,7 @@ button.addEventListener("click", async () => {
     status.innerText = "📡 Sending data to server...";
 
     // Send request
-    const res = await fetch("http://127.0.0.1:5000/process", {
+    const res = await fetch("/process", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
